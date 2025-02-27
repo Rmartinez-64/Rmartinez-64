@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-  - Creating a Virtual Machine https://github.com/Rmartinez-64/Virtual-Machine
+  - [Creating a Virtual Machine] (https://github.com/Rmartinez-64/Virtual-Machine)
 
 <h2> 🤳 Connect with me:</h2>
 
